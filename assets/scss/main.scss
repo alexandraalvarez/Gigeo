@@ -1,0 +1,21 @@
+// Llamado a abstracts
+@import'abstracts/variables';
+@import'abstracts/mixins';
+
+// Llamado a vendors
+@import 'vendors/bootstrap-4.5';
+
+// Llamado a base
+//@import'base/typography';
+
+// Llamado a layout
+@import'layout/grid';
+@import'layout/header';
+//@import'layout/footer';
+
+
+// Llamado a components
+
+// Llamado a pages
+
+// Llamado a themes
